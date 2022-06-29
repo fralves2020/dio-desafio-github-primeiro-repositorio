@@ -2,6 +2,6 @@
 Primeiro desafio de projeto git/github
 
 
-##Links Úteis##
+##Links Úteis
 
-[Sintase Basica Markdown] (https://www.markdownguide.org/basic-syntax/)
+[Sintaxe Basica Markdown] (https://www.markdownguide.org/basic-syntax/)
