@@ -1,0 +1,4 @@
+Link para dowload do git hub: https://docs.github.com/pt/desktop/installing-and-configuring-github-desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop
+
+O git Bash é um terminal extendido para otimizar o uso do Git.
+
